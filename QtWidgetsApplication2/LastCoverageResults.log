@@ -1,0 +1,21 @@
+[2021-05-06 20:31:49] [info] Start Program:
+Path:"C:\\Users\\andre\\source\\repos\\QtWidgetsApplication2\\x64\\Debug\\lab6.qt.exe"
+Arguments:
+Working directory: "C:\\Users\\andre\\source\\repos\\QtWidgetsApplication2\\QtWidgetsApplication2\\"
+Modules: Selected: C:\Users\andre\source\repos\QtWidgetsApplication2\x64\Debug\lab6.qt.exe Excluded: 
+Sources: Selected: C:\Users\andre\source\repos\QtWidgetsApplication2\QtWidgetsApplication2 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\andre\AppData\Local\Temp\gad41ffy.xhk 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-06 20:31:49] [info] Module: C:\Users\andre\source\repos\QtWidgetsApplication2\x64\Debug\lab6.qt.exe is selected because it matches selected pattern: C:\Users\andre\source\repos\QtWidgetsApplication2\x64\Debug\lab6.qt.exe
+[2021-05-06 20:31:53] [info] ----------------------------------------------------
+[2021-05-06 20:31:53] [info] Coverage binary generated in file: C:\Users\andre\AppData\Local\Temp\gad41ffy.xhk
+[2021-05-06 20:31:53] [info] ----------------------------------------------------

@@ -1,0 +1,31 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+<Qt_DEFINES_>UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;QT_WIDGETS_LIB;QT_GUI_LIB;QT_CORE_LIB</Qt_DEFINES_>
+<Qt_INCLUDEPATH_>C:\Users\andre\Desktop\Qt1\6.0.3\msvc2019_64\include;C:\Users\andre\Desktop\Qt1\6.0.3\msvc2019_64\include\QtWidgets;C:\Users\andre\Desktop\Qt1\6.0.3\msvc2019_64\include\QtGui;C:\Users\andre\Desktop\Qt1\6.0.3\msvc2019_64\include\QtCore;/include;C:\Users\andre\Desktop\Qt1\6.0.3\msvc2019_64\mkspecs\win32-msvc</Qt_INCLUDEPATH_>
+<Qt_LIBS_>C:\Users\andre\Desktop\Qt1\6.0.3\msvc2019_64\lib\Qt6Widgets.lib;C:\Users\andre\Desktop\Qt1\6.0.3\msvc2019_64\lib\Qt6Gui.lib;C:\Users\andre\Desktop\Qt1\6.0.3\msvc2019_64\lib\Qt6Core.lib;C:\Users\andre\Desktop\Qt1\6.0.3\msvc2019_64\lib\Qt6EntryPoint.lib;shell32.lib</Qt_LIBS_>
+<Qt_INCLUDEPATH_
+      >$(Qt_INCLUDEPATH_);x64\Release\moc;x64\Release\uic</Qt_INCLUDEPATH_>
+    <QtBkup_QtInstall
+      >6.0.3_msvc2019_64</QtBkup_QtInstall>
+    <QtBkup_QtModules
+      >core;gui;widgets</QtBkup_QtModules>
+    <QtBkup_QtPathBinaries
+      >bin</QtBkup_QtPathBinaries>
+    <QtBkup_QtPathLibraryExecutables
+      >bin</QtBkup_QtPathLibraryExecutables>
+    <QtBkup_QtHeaderSearchPath
+      ></QtBkup_QtHeaderSearchPath>
+    <QtBkup_QtLibrarySearchPath
+      ></QtBkup_QtLibrarySearchPath>
+    <QtBkup_QtVars
+      >DEFINES=/-D([^\s=]+(=(\x22(\\\\|\\\x22|[^\x22])*\x22|\S+))?)/$1/;INCLUDEPATH=INCPATH/-(?:iquote|isystem|idirafter|I)\s*(\x22[^\x22]+\x22|[^\s]+)/$1/;LIBS=/(?:(?:\/LIBPATH:|-L)(?:\x22[^\x22]+\x22|[^\s]+))|(\x22[^\x22]+\x22|[^\s]+)/$1/;LIBPATH=LIBS/(?:\/LIBPATH:|-L)(\x22[^\x22]+\x22|[^\s]+)/$1/</QtBkup_QtVars>
+    <QtBkup_QMakeCodeLines
+      ></QtBkup_QMakeCodeLines>
+    <QtBkup_QtBuildConfig
+      >release</QtBkup_QtBuildConfig>
+    <QtVersion>6.0.3</QtVersion>
+    <QtVersionMajor>6</QtVersionMajor>
+    <QtVersionMinor>0</QtVersionMinor>
+    <QtVersionPatch>3</QtVersionPatch>
+  </PropertyGroup>
+</Project>

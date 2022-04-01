@@ -1,0 +1,27 @@
+﻿  Access is denied.
+  Reading Qt configuration (C:/Users/andre/Desktop/Qt1/6.0.3/msvc2019_64/bin/qmake)
+  GUI.cpp
+  ListaNotificariGUI.cpp
+  Modele.cpp
+  MyGUIModel.cpp
+  Observer.cpp
+  Teste.cpp
+  UI.cpp
+  ValidareLocatar.cpp
+  AbstractRepo.cpp
+  ActiuneUndo.cpp
+  Exceptii.cpp
+  ExceptionRepo.cpp
+  ListaNotificari.cpp
+  Locatar.cpp
+  LocatarRepository.cpp
+  LocatarRepositoryFile.cpp
+  LocatarService.cpp
+  QtWidgetsApplication2.cpp
+  main.cpp
+  qrc_QtWidgetsApplication2.cpp
+  moc_QtWidgetsApplication2.cpp
+  LINK : C:\Users\andre\Desktop\Facultate\Facultate-sem II\tema os\QtWidgetsApplication2\x64\Debug\lab6.qt.exe not found or not built by the last incremental link; performing full link
+  QtWidgetsApplication2.vcxproj -> C:\Users\andre\Desktop\Facultate\Facultate-sem II\tema os\QtWidgetsApplication2\x64\Debug\lab6.qt.exe
+  windeployqt: "C:/Users/andre/Desktop/Qt1/6.0.3/msvc2019_64/bin\windeployqt.exe" --list target --dir "C:\Users\andre\Desktop\Facultate\Facultate-sem II\tema os\QtWidgetsApplication2\x64\Debug\\" "C:\Users\andre\Desktop\Facultate\Facultate-sem II\tema os\QtWidgetsApplication2\x64\Debug\lab6.qt.exe"
+EXEC : warning : Cannot find Visual Studio installation directory, VCINSTALLDIR is not set.
